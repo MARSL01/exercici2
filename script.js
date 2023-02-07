@@ -1,1 +1,1 @@
-alert(Esic funconan);
+alert(Esic funconan)
